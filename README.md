@@ -4,7 +4,7 @@ This focuses on CSS styling. It is a course given out by " " on Udemy.
 
 This is only sections from chapter through 3 (the header).
 
-In this course is started by some 
+The course is started by some 
 - very basic CSS, changing by using 
 - inheritance,
 - root,
