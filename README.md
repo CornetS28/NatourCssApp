@@ -4,8 +4,9 @@ This focuses on CSS styling. It is a course given out by " " on Udemy.
 
 This is only sections from chapter through 3 (the header).
 
-The course is started by some 
-- very basic CSS, changing by using 
+The course is started by some
+
+- very basic CSS, changing by using
 - inheritance,
 - root,
 - rem, and finally changing into
@@ -13,10 +14,12 @@ The course is started by some
 
 # Course taker
 
-  Samuel Cornet
+Samuel Cornet
+
 - [email](corsam28@gmail.com)
 - [github](https://github.com/CornetS28/)
 
 # Project
+
 - The code for this app can be found [here](https://github.com/CornetS28/NatourCssApp)
-- The live demo of this app can be found [here]()
+- The live demo of this app can be found [here](https://rawcdn.githack.com/CornetS28/NatourCssApp/f564ff0286980d5e9472bd7b446773c1df729052/index.html)
